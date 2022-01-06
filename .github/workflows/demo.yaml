@@ -1,4 +1,4 @@
-name: demo
+name: demoTopic
 on: workflow_dispatch
 jobs:
   hello-world:
